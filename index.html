@@ -1,5 +1,14 @@
 <html>
 	<div id="menu"></div>
+
+<script>
+  fetch('/menu.html')
+    .then(res => res.text())
+    .then(html => {
+      document.getElementById('menu').innerHTML = html;
+    });
+</script>
+	
 <style>
 .mainpage_row
 {
