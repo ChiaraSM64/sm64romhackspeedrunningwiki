@@ -1,5 +1,48 @@
 <html>
 <style>
+.wrapper {
+  display: flex;
+  min-height: 100vh;
+}
+
+/* Sidebar */
+.sidebar {
+  width: 250px;
+  background-color: #f4f4f4;
+  padding: 20px;
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  overflow-y: auto;
+}
+
+.sidebar img {
+  display: block;
+  margin-bottom: 15px;
+}
+
+.sidebar h3 {
+  font-size: 1.2em;
+  margin-bottom: 15px;
+}
+
+.sidebar ul {
+  list-style-type: none;
+}
+
+.sidebar ul li {
+  margin-bottom: 10px;
+}
+.content {
+  margin-left: 270px; /* Largeur de la sidebar + marge */
+  padding: 20px;
+  flex-grow: 1;
+  background-color: #ffffff;
+}
+/* End of Sidebar */
+
 .Page
 {
     line-height: 1.5;
@@ -42,8 +85,18 @@
     font-size: 90%;
 }
 </style>
+<div class="wrapper">
+    <nav class="sidebar">
+      <img src="https://i.pinimg.com/736x/a9/3f/bc/a93fbc64abac3f7f84891699d195be89.jpg" width="100px" height="100px">
+      <h3>SM64 Through the Runs</h3>
+      <ul>
+        <li><a style="text-decoration:none" href="/index.html" > Super Mario Star Road </a><br></li>
+        <li>Other Hacks Comming Soon</li>
+      </ul>
+    </nav>
+  <main class="content">
 <div class="Title">
-    RTA Guide/80 Star Modern
+  RTA Guide/80 Star Modern
 </div>
 <div class="Description">
     80 Star Modern is like 80 Star Legacy but with different rules, legacy was the no major glitches version of 80 Star and Modern remove the rule of not doing major glitches, 
@@ -242,8 +295,8 @@
     19. Bowser's Rainbow Rumble <br>
 </div>
 <div class="Strats">
-    &#8226; <a style="text-decoration:none" href="Castle_Movements/M_SR_CM.html" > SR+Toad to BRR </a><br>
-    &#8226; <a style="text-decoration:none" href="Levels/B_BRR.html" > Boss Entry </a><br>
-    &#8226; <a style="text-decoration:none" href="Levels/B_BRR_Fight.html" > Boss Fight </a><br>
+    &#8226; <a style="text-decoration:none" href="Castle_Movements/B_BRR_CM.html" > SR+Toad to BRR </a><br>
+    &#8226; <a style="text-decoration:none" href="Levels/Bowsers/B_BRR.html" > Boss Entry </a><br>
+    &#8226; <a style="text-decoration:none" href="Levels/Bowsers/B_BRR_Fight.html" > Boss Fight </a><br>
 </div>
 </html>
