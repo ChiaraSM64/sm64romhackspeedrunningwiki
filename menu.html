@@ -53,23 +53,4 @@
     }
   </style>
 </head>
-<body>
-  <div class="wrapper">
-    <!-- Ici, le bandeau est chargé dynamiquement -->
-    <div id="sidebar-placeholder"></div>
-
-    <div class="content">
-      <h1>Bienvenue</h1>
-      <p>Voici le contenu principal de la page.</p>
-    </div>
-  </div>
-
-  <script>
-    fetch('/bandeau.html')
-      .then(res => res.text())
-      .then(html => {
-        document.getElementById('sidebar-placeholder').innerHTML = html;
-      });
-  </script>
-</body>
 </html>
