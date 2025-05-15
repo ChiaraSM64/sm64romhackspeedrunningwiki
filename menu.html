@@ -1,0 +1,65 @@
+<html>
+<style>
+    .wrapper {
+  display: flex;
+  min-height: 100vh;
+}
+
+/* Sidebar */
+.sidebar {
+  width: 250px;
+  background-color: #f4f4f4;
+  padding: 20px;
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  overflow-y: auto;
+}
+
+.sidebar img {
+  display: block;
+  margin-bottom: 15px;
+}
+
+.sidebar h3 {
+  font-size: 1.2em;
+  margin-bottom: 15px;
+}
+
+.sidebar ul {
+  list-style-type: none;
+}
+
+.sidebar ul li {
+  margin-bottom: 10px;
+}
+.content {
+  margin-left: 270px; /* Largeur de la sidebar + marge */
+  padding: 20px;
+  flex-grow: 1;
+  background-color: #ffffff;
+}
+</style>
+<div class="wrapper">
+    <nav class="sidebar">
+      <img src="https://i.pinimg.com/736x/a9/3f/bc/a93fbc64abac3f7f84891699d195be89.jpg" width="100px" height="100px">
+      <h3>SM64 Through the Runs</h3>
+      <ul>
+        <li><li><a style="text-decoration:none" href="/index.html" > Super Mario Star Road </a><br></li></li>
+        <li>Other Hacks Comming Soon</li>
+      </ul>
+    </nav>
+<main class="content">
+<div class="Title">
+    The Ultimate SM64 Romhacks Speedrunning Wiki
+</div>
+<script>
+  fetch('/menu.html')
+    .then(res => res.text())
+    .then(html => {
+      document.getElementById('menu').innerHTML = html;
+    });
+</script>
+</html>
