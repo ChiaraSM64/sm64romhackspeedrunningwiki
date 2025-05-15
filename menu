@@ -1,5 +1,5 @@
 <html>
-<body>
+<style>
 .wrapper {
   display: flex;
   min-height: 100vh;
@@ -41,5 +41,5 @@
   flex-grow: 1;
   background-color: #ffffff;
 }
-</body>
+</style>
 </html>
