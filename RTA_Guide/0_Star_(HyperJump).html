@@ -1,5 +1,48 @@
 <html>
 <style>
+
+.wrapper {
+  display: flex;
+  min-height: 100vh;
+}
+
+/* Sidebar */
+.sidebar {
+  width: 250px;
+  background-color: #f4f4f4;
+  padding: 20px;
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  overflow-y: auto;
+}
+
+.sidebar img {
+  display: block;
+  margin-bottom: 15px;
+}
+
+.sidebar h3 {
+  font-size: 1.2em;
+  margin-bottom: 15px;
+}
+
+.sidebar ul {
+  list-style-type: none;
+}
+
+.sidebar ul li {
+  margin-bottom: 10px;
+}
+.content {
+  margin-left: 270px; /* Largeur de la sidebar + marge */
+  padding: 20px;
+  flex-grow: 1;
+  background-color: #ffffff;
+}
+    
 .Page
 {
     line-height: 1.5;
@@ -42,9 +85,22 @@
     font-size: 90%;
 }
 </style>
+
+<div class="wrapper">
+    <nav class="sidebar">
+      <img src="https://i.pinimg.com/736x/a9/3f/bc/a93fbc64abac3f7f84891699d195be89.jpg" width="100px" height="100px">
+      <h3>SM64 Through the Runs</h3>
+      <ul>
+        <li><a style="text-decoration:none" href="/index.html" > Super Mario Star Road </a><br></li>
+        <li>Other Hacks Coming Soon</li>
+      </ul>
+    </nav>
+  <main class="content">
 <div class="Title">
     RTA Guide/0 Star HyperJump
 </div>
+    
+
 <div class="Description">
     0 Star HyperJump is the fastest category of Super Mario Star Road and is a way harder Any% alternative. 
     In this category you do 1 major glitch called "HyperJump" which makes you able to skip the first 2 Bowser stages. This makes it possible to finish the game with 0 keys and in under 3 minutes.
