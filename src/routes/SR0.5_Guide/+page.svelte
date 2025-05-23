@@ -18,7 +18,7 @@
 		<div id="mainpage-admins" class="items">
 			&#8226; <a href="">Speedrunning (RTA) Start Page [WIP]</a><br>
 			&#8226; <a href="">Individual Stage Guides [WIP]</a><br>
-			&#8226; <a href="65_Star_1.0">65 Star Guide [WIP]</a><br>
+			&#8226; <a href="SR0.5_Guide/65_Star_1.0">65 Star Guide [WIP]</a><br>
 			&#8226; <a href="">36 Star Guide [WIP]</a><br>
 			&#8226; <a href="">69 Star (v.1.1) Guide [WIP]</a><br>
 			&#8226; <a href="">67 Star (v.1.1.1) Guide [WIP]</a><br>
