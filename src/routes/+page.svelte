@@ -3,7 +3,7 @@
 <p>
     This wiki is dedicated to recording expert level knowledge of Super Mario 64 RomHacks.
     The purpose of this wiki is to allow people to find information that isn't easily available on other websites or by a quick Google search.
-    If you want to contribute, feel free to join the<a href="https://discord.gg/dBA3dcRaqS">Wiki Discord server</a>.
+    If you want to contribute, feel free to join the <a href="https://discord.gg/dBA3dcRaqS">Wiki Discord server</a>.
     Big shoutout to the Ukikipedia devs for making the main game wiki, it was really useful to make the romhacks speedrunning one.
     Enjoy!
 </p>
