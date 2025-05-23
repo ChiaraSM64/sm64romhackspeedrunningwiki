@@ -16,20 +16,17 @@
 		</h3>
 
 		<div id="mainpage-admins" class="items">
-			&#8226;<a style="text-decoration:none" href="">Speedrunning (RTA) Start Page [WIP]</a><br>
-			&#8226;<a style="text-decoration:none" href="">Individual Stage Guides [WIP]</a><br>
-			&#8226;<a style="text-decoration:none" href="/65_Star_1.0">65 Star Guide [WIP]</a><br>
-			&#8226;<a style="text-decoration:none" href="">36 Star Guide [WIP]</a><br>
-			&#8226;<a style="text-decoration:none" href="">69 Star (v.1.1) Guide [WIP]</a><br>
-			&#8226;<a style="text-decoration:none" href="">67 Star (v.1.1.1) Guide [WIP]</a><br>
+			&#8226; <a href="">Speedrunning (RTA) Start Page [WIP]</a><br>
+			&#8226; <a href="">Individual Stage Guides [WIP]</a><br>
+			&#8226; <a href="/65_Star_1.0">65 Star Guide [WIP]</a><br>
+			&#8226; <a href="">36 Star Guide [WIP]</a><br>
+			&#8226; <a href="">69 Star (v.1.1) Guide [WIP]</a><br>
+			&#8226; <a href="">67 Star (v.1.1.1) Guide [WIP]</a><br>
 		</div>
 	</div>
 
 	<div class="mainpage_box">
-		<h3>
-			<span class="header_icon" aria-hidden="true" role="presentation"></span>
-			<span>Glitches</span>
-		</h3>
+		<h3>Glitches</h3>
 
 		<div id="mainpage-users" class="items">
             &#8226; Backwards Long Jump<br>
@@ -126,7 +123,7 @@
 		</h3>
 
 		<div id="mainpage-devs" class="items">
-            &#8226;<a style="text-decoration:none" href="https://ukikipedia.net">Ukikipedia</a>
+            &#8226;<a href="https://ukikipedia.net">Ukikipedia</a>
 		</div>
 	</div>
 </div>

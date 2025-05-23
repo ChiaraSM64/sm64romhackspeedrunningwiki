@@ -6,8 +6,8 @@
     <h3>SM64 Through the Runs</h3>
 
     <ul>
-        <li><a style="text-decoration:none" href="/">Super Mario Star Road</a></li>
-		<li><a style="text-decoration:none" href="/SR0.5_Guide">Star Revenge 0.5: Unused Levels</a><br></li>
+        <li><a href="/">Super Mario Star Road</a></li>
+		<li><a href="/SR0.5_Guide">Star Revenge 0.5: Unused Levels</a><br></li>
         <li>Other Hacks Coming Soon</li>
     </ul>
 </nav>
@@ -19,7 +19,6 @@
         background-color: #f4f4f4;
         padding: 20px;
         box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
-        overflow-y: auto;
     }
 
     .sidebar img {

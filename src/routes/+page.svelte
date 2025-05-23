@@ -18,14 +18,14 @@
         </h3>
 
         <div id="mainpage-admins" class="items">
-            &#8226;<a style="text-decoration:none" href="RTA_Guide">Speedrunning (RTA) Start Page [WIP]</a><br>
-            &#8226;<a style="text-decoration:none" href="RTA_Guide/All_Stages">Individual Stage Guides [WIP]</a><br>
-            &#8226;<a style="text-decoration:none" href="RTA_Guide/130_Star">130 Star Guide [WIP]</a><br>
-            &#8226;<a style="text-decoration:none" href="RTA_Guide/80_Star_(Legacy)">80 Star (Legacy) Guide [WIP]</a><br>
-            &#8226;<a style="text-decoration:none" href="RTA_Guide/80_Star_(Modern)">80 Star (Modern) Guide</a><br>
-            &#8226;<a style="text-decoration:none" href="RTA_Guide/20_Star">20 Star Guide [WIP]</a><br>
-            &#8226;<a style="text-decoration:none" href="RTA_Guide/0_Star_(No_HyperJump)">0 Star (No HyperJump) Guide</a><br>
-            &#8226;<a style="text-decoration:none" href="RTA_Guide/0_Star_(HyperJump)">0 Star (HyperJump) Guide [WIP]</a><br>
+            &#8226;<a href="RTA_Guide">Speedrunning (RTA) Start Page [WIP]</a><br>
+            &#8226;<a href="RTA_Guide/All_Stages">Individual Stage Guides [WIP]</a><br>
+            &#8226;<a href="RTA_Guide/130_Star">130 Star Guide [WIP]</a><br>
+            &#8226;<a href="RTA_Guide/80_Star_(Legacy)">80 Star (Legacy) Guide [WIP]</a><br>
+            &#8226;<a href="RTA_Guide/80_Star_(Modern)">80 Star (Modern) Guide</a><br>
+            &#8226;<a href="RTA_Guide/20_Star">20 Star Guide [WIP]</a><br>
+            &#8226;<a href="RTA_Guide/0_Star_(No_HyperJump)">0 Star (No HyperJump) Guide</a><br>
+            &#8226;<a href="RTA_Guide/0_Star_(HyperJump)">0 Star (HyperJump) Guide [WIP]</a><br>
         </div>
     </div>
 
@@ -88,9 +88,9 @@
         </h3>
 
         <div id="mainpage-devs" class="items">
-            &#8226;<a style="text-decoration:none" href="https://youtu.be/EjgJ9Zk02fg?si=Lsh5P4AKQAHKzr0f">Super Mario Star Road - 0 Star HyperJump (2017)</a><br>
-            &#8226;<a style="text-decoration:none" href="https://youtu.be/i--_K3tC7-A?si=A8sGVLEORPSTkzPe">Super Mario Star Road - 80 Star "Ideal Run" (2021)</a><br>
-            &#8226;<a style="text-decoration:none" href="https://youtu.be/upKVT4x7VzI?si=ySRC9cH8giZ64oQK">Super Mario Star Road - 130 Star "Ideal Run" (2018)</a><br>
+            &#8226;<a href="https://youtu.be/EjgJ9Zk02fg?si=Lsh5P4AKQAHKzr0f">Super Mario Star Road - 0 Star HyperJump (2017)</a><br>
+            &#8226;<a href="https://youtu.be/i--_K3tC7-A?si=A8sGVLEORPSTkzPe">Super Mario Star Road - 80 Star "Ideal Run" (2021)</a><br>
+            &#8226;<a href="https://youtu.be/upKVT4x7VzI?si=ySRC9cH8giZ64oQK">Super Mario Star Road - 130 Star "Ideal Run" (2018)</a><br>
         </div>
 	</div>
 
@@ -132,7 +132,7 @@
         </h3>
 
 		<div id="mainpage-devs" class="items">
-            &#8226;<a style="text-decoration:none" href="https://ukikipedia.net">Ukikipedia</a>
+            &#8226;<a href="https://ukikipedia.net">Ukikipedia</a>
 		</div>
 	</div>
 </div>

@@ -12,7 +12,7 @@
     </div>
 </div>
 
-<style lang="scss">
+<style>
     :global(h1) {
         font-size: 1.88em;
         margin: 20px 0;
@@ -46,7 +46,7 @@
         font-family: Arial;
     }
 
-    :global(a) {
+    :global(a:not(:hover)) {
         text-decoration: none;
     }
 
