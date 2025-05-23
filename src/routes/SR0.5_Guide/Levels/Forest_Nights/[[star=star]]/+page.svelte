@@ -51,7 +51,7 @@
     <YouTubeVideo src="https://youtube.com/embed/YPB9Q5xI9sk?si=_B0JqMST1wzyE75c"></YouTubeVideo>
 {:else if star === 6}
     <h3>Beginner</h3>
-    <YouTubeVideo src="https://youtube.com/embed/watch?v=b4bklKR8x2A"></YouTubeVideo>
+    <YouTubeVideo src="https://youtube.com/embed/b4bklKR8x2A?si=NI-yq0wYfgv98r_0"></YouTubeVideo>
 {:else if star === 7}
     <h3>Beginner</h3>
 {/if}
