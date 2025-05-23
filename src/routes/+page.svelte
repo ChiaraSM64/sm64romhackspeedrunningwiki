@@ -86,9 +86,9 @@
         </h3>
 
         <div id="mainpage-devs" class="items">
-            &#8226;<a href="https://youtu.be/EjgJ9Zk02fg?si=Lsh5P4AKQAHKzr0f">Super Mario Star Road - 0 Star HyperJump (2017)</a><br>
-            &#8226;<a href="https://youtu.be/i--_K3tC7-A?si=A8sGVLEORPSTkzPe">Super Mario Star Road - 80 Star "Ideal Run" (2021)</a><br>
-            &#8226;<a href="https://youtu.be/upKVT4x7VzI?si=ySRC9cH8giZ64oQK">Super Mario Star Road - 130 Star "Ideal Run" (2018)</a><br>
+            &#8226; <a href="https://youtu.be/EjgJ9Zk02fg?si=Lsh5P4AKQAHKzr0f">Super Mario Star Road - 0 Star HyperJump (2017)</a><br>
+            &#8226; <a href="https://youtu.be/i--_K3tC7-A?si=A8sGVLEORPSTkzPe">Super Mario Star Road - 80 Star "Ideal Run" (2021)</a><br>
+            &#8226; <a href="https://youtu.be/upKVT4x7VzI?si=ySRC9cH8giZ64oQK">Super Mario Star Road - 130 Star "Ideal Run" (2018)</a><br>
         </div>
 	</div>
 
@@ -130,7 +130,7 @@
         </h3>
 
 		<div id="mainpage-devs" class="items">
-            &#8226;<a href="https://ukikipedia.net">Ukikipedia</a>
+            &#8226; <a href="https://ukikipedia.net">Ukikipedia</a>
 		</div>
 	</div>
 </div>
