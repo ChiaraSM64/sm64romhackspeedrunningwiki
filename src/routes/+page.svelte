@@ -18,14 +18,14 @@
         </h3>
 
         <div id="mainpage-admins" class="items">
-            &#8226;<a href="RTA_Guide">Speedrunning (RTA) Start Page [WIP]</a><br>
-            &#8226;<a href="RTA_Guide/All_Stages">Individual Stage Guides [WIP]</a><br>
-            &#8226;<a href="RTA_Guide/130_Star">130 Star Guide [WIP]</a><br>
-            &#8226;<a href="RTA_Guide/80_Star_(Legacy)">80 Star (Legacy) Guide [WIP]</a><br>
-            &#8226;<a href="RTA_Guide/80_Star_(Modern)">80 Star (Modern) Guide</a><br>
-            &#8226;<a href="RTA_Guide/20_Star">20 Star Guide [WIP]</a><br>
-            &#8226;<a href="RTA_Guide/0_Star_(No_HyperJump)">0 Star (No HyperJump) Guide</a><br>
-            &#8226;<a href="RTA_Guide/0_Star_(HyperJump)">0 Star (HyperJump) Guide [WIP]</a><br>
+            &#8226; <a href="RTA_Guide">Speedrunning (RTA) Start Page [WIP]</a><br>
+            &#8226; <a href="RTA_Guide/All_Stages">Individual Stage Guides [WIP]</a><br>
+            &#8226; <a href="RTA_Guide/130_Star">130 Star Guide [WIP]</a><br>
+            &#8226; <a href="RTA_Guide/80_Star_(Legacy)">80 Star (Legacy) Guide [WIP]</a><br>
+            &#8226; <a href="RTA_Guide/80_Star_(Modern)">80 Star (Modern) Guide</a><br>
+            &#8226; <a href="RTA_Guide/20_Star">20 Star Guide [WIP]</a><br>
+            &#8226; <a href="RTA_Guide/0_Star_(No_HyperJump)">0 Star (No HyperJump) Guide</a><br>
+            &#8226; <a href="RTA_Guide/0_Star_(HyperJump)">0 Star (HyperJump) Guide [WIP]</a><br>
         </div>
     </div>
 
