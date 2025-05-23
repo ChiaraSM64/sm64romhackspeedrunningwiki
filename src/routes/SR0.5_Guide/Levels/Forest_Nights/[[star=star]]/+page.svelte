@@ -36,22 +36,22 @@
 
 {#if star === 1}
     <h3>Beginner</h3>
-    <YouTubeVideo src="https://youtu.be/29O0wCP6TuE?si=CySykVArdLbcdxHj"></YouTubeVideo>
+    <YouTubeVideo src="https://youtube.com/embed/29O0wCP6TuE?si=CySykVArdLbcdxHj"></YouTubeVideo>
 {:else if star === 2}
     <h3>Beginner</h3>
-    <YouTubeVideo src="https://youtu.be/S-RwgQosJAQ?si=T6lNlde6LJ-uDCFo"></YouTubeVideo>
+    <YouTubeVideo src="https://youtube.com/embed/S-RwgQosJAQ?si=T6lNlde6LJ-uDCFo"></YouTubeVideo>
 {:else if star === 3}
     <h3>Beginner</h3>
-    <YouTubeVideo src="https://youtu.be/tzdsFDHB8sk?si=mGNdelQbcu_2wMy3"></YouTubeVideo>
+    <YouTubeVideo src="https://youtube.com/embed/tzdsFDHB8sk?si=mGNdelQbcu_2wMy3"></YouTubeVideo>
 {:else if star === 4}
     <h3>Beginner</h3>
-    <YouTubeVideo src="https://youtu.be/RSsLmbmRu0E?si=8T2nNyX4m6KxEJaX"></YouTubeVideo>
+    <YouTubeVideo src="https://youtube.com/embed/RSsLmbmRu0E?si=8T2nNyX4m6KxEJaX"></YouTubeVideo>
 {:else if star === 5}
     <h3>Beginner</h3>
-    <YouTubeVideo src="https://youtu.be/YPB9Q5xI9sk?si=_B0JqMST1wzyE75c"></YouTubeVideo>
+    <YouTubeVideo src="https://youtube.com/embed/YPB9Q5xI9sk?si=_B0JqMST1wzyE75c"></YouTubeVideo>
 {:else if star === 6}
     <h3>Beginner</h3>
-    <YouTubeVideo src="https://www.youtube.com/watch?v=b4bklKR8x2A"></YouTubeVideo>
+    <YouTubeVideo src="https://youtube.com/embed/watch?v=b4bklKR8x2A"></YouTubeVideo>
 {:else if star === 7}
     <h3>Beginner</h3>
 {/if}
