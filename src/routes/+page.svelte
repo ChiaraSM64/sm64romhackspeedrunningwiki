@@ -1,14 +1,12 @@
-<div class="Title">Main Page [BETA]</div>
+<h1>Main Page [BETA]</h1>
 
-<div class="Description">
+<p>
     This wiki is dedicated to recording expert level knowledge of Super Mario 64 RomHacks.
     The purpose of this wiki is to allow people to find information that isn't easily available on other websites or by a quick Google search.
     If you want to contribute, feel free to join the<a href="https://discord.gg/dBA3dcRaqS">Wiki Discord server</a>.
     Big shoutout to the Ukikipedia devs for making the main game wiki, it was really useful to make the romhacks speedrunning one.
     Enjoy!
-</div>
-
-<div style="clear: both;"></div>
+</p>
 
 <div id="audiences" class="mainpage_row">
     <div class="mainpage_box">
@@ -172,18 +170,5 @@
     .mainpage_box .items {
         border-top: 1px solid #CCC;
         padding-top: 0.5em;
-    }
-
-    .Title {
-        font-size: 30px;
-        margin: 10px;
-        margin-bottom: 15px;
-        border-bottom: 1px solid #CCC;
-        font-family: georgia;
-    }
-
-    .Description {
-        font-family: Arial;
-        font-size: 90%;
     }
 </style>
