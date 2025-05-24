@@ -52,7 +52,7 @@
     <YouTubeVideo src="https://www.youtube.com/embed/68iIByC25Os?si=mfgqtmqPgVTBMIST"></YouTubeVideo>
 
     <h3>Advanced</h3>
-    <YouTubeVideo src="https://www.youtube.com/embed/2tNQOTh1n5A?si=v7q8W0TE_pzlHp8B"></YouTubeVideo>
+    <YouTubeVideo src="https://www.youtube.com/embed/oSBlJEI3xEQ?si=FhVVr-SemGcS2jOp"></YouTubeVideo>
 {:else if star === 3}
     <h3>Beginner</h3>
     <YouTubeVideo src="https://www.youtube.com/embed/oZeB0xOnncw?si=TIkI5dwgEOKlth30"></YouTubeVideo>
