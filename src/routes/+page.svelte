@@ -71,9 +71,10 @@
         <div id="mainpage-admins" class="items">
             &#8226; Chiara*<br>
             &#8226; Dackage<br>
-			&#8226; Miphasidon<br>
-			&#8226; katze789<br>
-			&#8226; TriforceTK<br>
+	    &#8226; Miphasidon<br>
+	    &#8226; katze789<br>
+	    &#8226; TriforceTK<br>
+	    &#8226; wRadion<br>
         </div>
     </div>
 </div>
