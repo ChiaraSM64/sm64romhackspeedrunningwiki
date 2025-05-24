@@ -10,7 +10,7 @@
     <li>
         <span>Overworld</span>
         <ul>
-            <li><a href="Levels/MMT/2">Red Coin Star</a></li>
+            <li><a href="Levels/OW/">Red Coin Star</a></li>
         </ul>
     </li>
 
