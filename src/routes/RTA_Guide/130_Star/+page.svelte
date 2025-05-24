@@ -6,6 +6,8 @@
     non-course level). The run ends upon grabbing the 130th star.
 </p>
 
+<h2>Detailed Tutorial by TriforceTK (Beginner/Intermediate/Advanced)</h2>
+
 <h2>Route</h2>
 
 <ol>
