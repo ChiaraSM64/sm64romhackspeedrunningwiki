@@ -1,3 +1,5 @@
+import YouTubeVideo from "components/YouTubeVideo.svelte";
+
 <h1>RTA Guide/130 Star</h1>
 
 <p>
