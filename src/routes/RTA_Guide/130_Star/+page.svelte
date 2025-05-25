@@ -7,6 +7,7 @@
 </p>
 
 <h2>Detailed Tutorial by TriforceTK (Beginner/Intermediate/Advanced)</h2>
+<YouTubeVideo src="https://www.youtube.com/embed/5zdg8E1jFwY?si=eAfJg8n0mB38kQEP"></YouTubeVideo>
 
 <h2>Route</h2>
 
