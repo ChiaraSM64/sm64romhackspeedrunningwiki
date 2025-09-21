@@ -8,6 +8,7 @@
     <ul>
         <li><a href="/">Super Mario Star Road</a></li>
 		<li><a href="/SR0.5_Guide">Star Revenge 0.5: Unused Levels</a><br></li>
+        <li><a href="/KSITT">Katze Stuck in the Toilet 64</a><br></li>
         <li>Other Hacks Coming Soon</li>
     </ul>
 </nav>
