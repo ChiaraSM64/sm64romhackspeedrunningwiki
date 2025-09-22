@@ -1,7 +1,7 @@
 <h1>RTA Guide/Overworld 1</h1>
 
 <p>
-    Overworld 1 is the starting area of the hack. only 1 Burger is required to enter the 2nd overworld. 
+    Overworld 1 is the starting area of the hack. only 1 Burger is required to leave it. 
     However, you can enter the door without collecting any burgers by doing a blj on the bin.
 </p>
 
@@ -12,5 +12,5 @@
     referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p>
-        <em>If you have enough speed, you can directly clip through the door without kicking, which saves arround 3sec</em>
-    </p>
+    <em>If you have enough speed, you can directly clip through the door without kicking, which saves arround 3sec</em>
+</p>

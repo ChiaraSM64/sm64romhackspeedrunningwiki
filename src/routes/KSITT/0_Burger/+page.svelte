@@ -12,7 +12,25 @@
     <li>
         <span>Entering Overworld 2</span>
         <ul>
-            <li><a href="Levels/Glitches/OW1_BLJ">BLJ</a></li>
+            <li><a href="Levels/Glitches/OW1_BLJ">1st BLJ</a></li>
+        </ul>
+    </li>
+    <li>
+        <span>Entering Bowser 1</span>
+        <ul>
+            <li><a href="Levels/Glitches/OW2_BLJ">2nd BLJ</a></li>
+        </ul>
+    </li>
+    <li>
+        <span>Bowser 1</span>
+        <ul>
+            <li><a href="Levels/Glitches/Astas_Room">Astas Room (B1)</a></li>
+        </ul>
+    </li>
+    <li>
+        <span>Bowser 2</span>
+        <ul>
+            <li><a href="Levels/Glitches/Astas_Fight">Astas Fight (B2)</a></li>
         </ul>
     </li>
 </ol>
