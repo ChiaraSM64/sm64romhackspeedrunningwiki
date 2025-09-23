@@ -24,13 +24,13 @@
     <li>
         <span>Bowser 1</span>
         <ul>
-            <li><a href="Levels/Glitches/Astas_Room">Astas Room (B1)</a></li>
+            <li><a href="Levels/Astas_Room">Astas Room (B1)</a></li>
         </ul>
     </li>
     <li>
         <span>Bowser 2</span>
         <ul>
-            <li><a href="Levels/Glitches/Astas_Fight">Astas Fight (B2)</a></li>
+            <li><a href="Levels/Astas_Fight">Astas Fight (B2)</a></li>
         </ul>
     </li>
 </ol>
