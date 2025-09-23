@@ -12,5 +12,5 @@
     referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p>
-    <em>If you have enough speed, you can directly clip through the door without kicking, which saves arround 3sec</em>
+    <em>If you have enough speed, you can directly clip through the door without kicking, which saves arround 2sec</em>
 </p>
