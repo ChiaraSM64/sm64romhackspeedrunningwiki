@@ -2,7 +2,7 @@
 
 <p>
     Overworld 2 is the 2nd area of the hack. only 1 Burger is required to enter it 
-    and access the different courses, by doing a precise blj, you can bypass the first bowser course door to finish the game without collecting any burgers.
+    and access the different courses. By doing a precise blj, you can bypass the first bowser course door to finish the game without collecting any burgers.
 </p>
 
 <h2>Strats</h2>

@@ -20,7 +20,7 @@
 			&#8226; <a href="">Individual Stage Guides [WIP]</a><br>
 			&#8226; <a href="KSITT/40_Burger">40 Burger Guide (v1.3.1) [WIP]</a><br>
 			&#8226; <a href="KSITT/30_Burger">30 Burger Guide (v1.3.1) [WIP]</a><br>
-			&#8226; <a href="KSITT/0_Burger">0 Burger (v1.2) Guide [WIP]</a><br>
+			&#8226; <a href="KSITT/0_Burger">0 Burger (v1.2) Guide</a><br>
 		</div>
 	</div>
 
