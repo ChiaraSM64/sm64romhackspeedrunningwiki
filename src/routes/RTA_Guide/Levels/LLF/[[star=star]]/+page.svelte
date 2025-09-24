@@ -80,8 +80,7 @@
     </ul>
     <p>
         <em>Only acts 1-4 are available for this star in a fullgame run. Act 4 is best if you are climbing the tree via the mushroom since the right chuckya and
-        lakitu will be gone. If doing the framewalk strat, you can use act 3 since the beehive's spiny and lakitu won't be there.
-        you can use act 3 since </em>
+        lakitu will be gone. If doing the framewalk strat, you can use act 3 since the beehive's spiny and lakitu won't be there.</em>
     </p>
 
 
