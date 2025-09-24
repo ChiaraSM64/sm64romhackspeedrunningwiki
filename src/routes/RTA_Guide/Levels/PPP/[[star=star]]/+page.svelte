@@ -38,7 +38,7 @@
     <h3>Beginner</h3>
     <YouTubeVideo src="https://www.youtube.com/embed/aYhk_rC8yMY?si=MmE736P97iHxKxSg"></YouTubeVideo>
 
-    <h3>Intermediate</h3>
+    <h3>Advanced</h3>
     <YouTubeVideo src="https://www.youtube.com/embed/f2hB_yjwyiE?si=FQ6uhnLX3yHSLEdr"></YouTubeVideo>
 {:else if star === 2}
     <h3>Classic strat</h3>

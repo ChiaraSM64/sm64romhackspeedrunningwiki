@@ -35,8 +35,17 @@
 <h2>{STARS[star - 1]}</h2>
 
 {#if star === 1}
+    <p>
+        <em>The wiggler is act 1 only.</em>
+    </p>
+
     <YouTubeVideo src="https://www.youtube.com/embed/nGUQGf1vJTo?si=Nev04HPoo-cIgHdb"></YouTubeVideo>
 {:else if star === 2}
+    <p>
+        <em>The moving mushroom and many tree objects are missing on act 1, but this star is still there. If doing the framewalk strat,
+        you can do it on act 1 so that the enemies in the tree are missing.</em>
+    </p>
+
     <h3>Beginner</h3>
     <YouTubeVideo src="https://www.youtube.com/embed/Yxe3skjSzA8?si=L_qn4nWjIht84hAo"></YouTubeVideo>
 
@@ -51,12 +60,30 @@
     <h3>Advanced</h3>
     <YouTubeVideo src="https://www.youtube.com/embed/sZQKnBU4AOI?si=fA93VQ3tZboGcbe_"></YouTubeVideo>
 {:else if star === 3}
+    <p>
+        <em>The lakitu is missing on act 2.</em>
+    </p>
+
     <h3>Beginner</h3>
     <YouTubeVideo src="https://www.youtube.com/embed/HM48Y_rhWO8?si=Vo28Gz8fros5mWcU"></YouTubeVideo>
 
-    <h3>Intermediate</h3>
+    <h3>Advanced</h3>
     <YouTubeVideo src="https://www.youtube.com/embed/FBsdG5IWDY0?si=vxsYQ-wlZxZJB0r2"></YouTubeVideo>
 {:else if star === 4}
+    <h3>Act Info</h3>
+    <ul>
+        <li>beehive star: acts 2 to 6</li>
+        <li>tree lakitu: acts 2, 5, and 6</li>
+        <li>left chuckya: acts 2 to 6</li>
+        <li>right chuckya: acts 2, 3, 5, and 6</li>
+        <li>beehive's spiny: only act 4</li>
+    </ul>
+    <p>
+        <em>Only acts 1-4 are available for this star in a fullgame run. Act 4 is best if you are climbing the tree via the mushroom since the right chuckya and
+        lakitu will be gone. If doing the framewalk strat, you can use act 3 since the beehive's spiny and lakitu won't be there.</em>
+    </p>
+
+
     <h3>Beginner</h3>
     <YouTubeVideo src="https://www.youtube.com/embed/GkYJldp3AKs?si=RNCpWee96mwt5ByP"></YouTubeVideo>
 
@@ -69,8 +96,20 @@
     <h3>Advanced</h3>
     <YouTubeVideo src="https://www.youtube.com/embed/7VeLjPFOJ18?si=wUsFyAWtGG2fkWcj"></YouTubeVideo>
 {:else if star === 5}
+    <p>
+        <em>Act 1 for this star is bad given the moving mushroom and many tree coins are missing.
+        The tree lakitu is active on acts 2, 5, and 6. The right tree chuckya is active on acts 2, 3, 5, and 6.
+    </p>
+    <p>
+        <em>You can use act 3 or 4 so the lakitu doesn't bother you, but act 3 is better so that you can use the right chuckya as backup coins.</em>
+    </p>
+
     <h3>Beginner</h3>
 {:else if star === 6}
+    <p>
+        <em>This star is available on all acts.</em>
+    </p>
+
     <h3>Beginner</h3>
     <YouTubeVideo src="https://www.youtube.com/embed/z2Jsd4KhWsY?si=8iS-NuKft-y4gZwM"></YouTubeVideo>
 
