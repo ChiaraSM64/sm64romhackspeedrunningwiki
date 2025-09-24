@@ -71,10 +71,12 @@
     <YouTubeVideo src="https://www.youtube.com/embed/FBsdG5IWDY0?si=vxsYQ-wlZxZJB0r2"></YouTubeVideo>
 {:else if star === 4}
     <p>
-        <em>This star is not available on act 1. The lakitu is missing on acts 3 and 4. The spiny in the beehive is act 4 only.
-        <br>
-        You can use act 3 or 4 so the lakitu doesn't bother you, but I prefer act 3 since the spiny also isn't there.</em>
+        <em>This star is not available on act 1. The lakitu is missing on acts 3 and 4. The spiny in the beehive is act 4 only.</em>
     </p>
+    <p>
+        <em>You can use act 3 or 4 so the lakitu doesn't bother you, but act 3 is better since the spiny also isn't there.</em>
+    </p>
+
 
     <h3>Beginner</h3>
     <YouTubeVideo src="https://www.youtube.com/embed/GkYJldp3AKs?si=RNCpWee96mwt5ByP"></YouTubeVideo>
@@ -91,8 +93,9 @@
     <p>
         <em>Act 1 for this star is bad given the moving mushroom and many tree coins are missing.
         The tree lakitu is active on acts 2, 5, and 6. The right tree chuckya is active on acts 2, 3, 5, and 6.
-        <br>
-        You can use act 3 or 4 so the lakitu doesn't bother you, but I prefer act 3 so that I can use the right chuckya as backup coins.</em>
+    </p>
+    <p>
+        <em>You can use act 3 or 4 so the lakitu doesn't bother you, but act 3 is better so that you can use the right chuckya as backup coins.</em>
     </p>
 
     <h3>Beginner</h3>
