@@ -70,11 +70,18 @@
     <h3>Advanced</h3>
     <YouTubeVideo src="https://www.youtube.com/embed/FBsdG5IWDY0?si=vxsYQ-wlZxZJB0r2"></YouTubeVideo>
 {:else if star === 4}
+    <h3>Act Info</h3>
+    <ul>
+        <li>beehive star: acts 2 to 6</li>
+        <li>tree lakitu: acts 2, 5, and 6</li>
+        <li>left chuckya: acts 2 to 6</li>
+        <li>right chuckya: acts 2, 3, 5, and 6</li>
+        <li>beehive's spiny: only act 4</li>
+    </ul>
     <p>
-        <em>This star is not available on act 1. The lakitu is missing on acts 3 and 4. The spiny in the beehive is act 4 only.</em>
-    </p>
-    <p>
-        <em>You can use act 3 or 4 so the lakitu doesn't bother you, but act 3 is better since the spiny also isn't there.</em>
+        <em>Only acts 1-4 are available for this star in a fullgame run. Act 4 is best if you are climbing the tree via the mushroom since the right chuckya and
+        lakitu will be gone. If doing the framewalk strat, you can use act 3 since the beehive's spiny and lakitu won't be there.
+        you can use act 3 since </em>
     </p>
 
 
