@@ -45,7 +45,7 @@
     <ul>
         <li>Since this star is act 2, only acts 1 and 2 are available before collecting this star.</li>
         <li>Act 2 is required if you're not doing the framewalk strat.</li>
-        <li>If doing the framewalk strat, it's recommended to do this star on act 1 since the enemies in the tree will be missing.</li>=
+        <li>If doing the framewalk strat, it's recommended to do this star on act 1 since the enemies in the tree will be missing.</li>
     </ul>
 
     <h3>Beginner</h3>
