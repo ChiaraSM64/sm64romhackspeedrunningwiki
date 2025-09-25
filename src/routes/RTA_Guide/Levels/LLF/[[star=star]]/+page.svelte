@@ -41,10 +41,12 @@
 
     <YouTubeVideo src="https://www.youtube.com/embed/nGUQGf1vJTo?si=Nev04HPoo-cIgHdb"></YouTubeVideo>
 {:else if star === 2}
-    <p>
-        <em>The moving mushroom and many tree objects are missing on act 1, but this star is still there. If doing the framewalk strat,
-        you can do it on act 1 so that the enemies in the tree are missing.</em>
-    </p>
+    <h3>Act Info</h3>
+    <ul>
+        <li>Since this star is act 2, only acts 1 and 2 are available before collecting this star.</li>
+        <li>Act 2 is required if you're not doing the framewalk strat.</li>
+        <li>If doing the framewalk strat, it's recommended to do this star on act 1 since the enemies in the tree will be missing.</li>=
+    </ul>
 
     <h3>Beginner</h3>
     <YouTubeVideo src="https://www.youtube.com/embed/Yxe3skjSzA8?si=L_qn4nWjIht84hAo"></YouTubeVideo>
@@ -79,7 +81,7 @@
         <li>beehive's spiny: only act 4</li>
     </ul>
     <p>
-        <em>Only acts 1-4 are available for this star in a fullgame run. Act 4 is best if you are climbing the tree via the mushroom since the right chuckya and
+        <em>In a fullgame run, only acts 1-4 are available before collecting this star and only acts 2-4 work. Act 4 is best if you are climbing the tree via the mushroom since the right chuckya and
         lakitu will be gone. If doing the framewalk strat, you can use act 3 since the beehive's spiny and lakitu won't be there.</em>
     </p>
 
