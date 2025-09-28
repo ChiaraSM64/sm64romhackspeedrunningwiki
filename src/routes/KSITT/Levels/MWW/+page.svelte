@@ -35,18 +35,21 @@
 <h2>{STARS[star - 1]}</h2>
 
 {#if star === 1}
-    <YouTubeVideo src=""></YouTubeVideo>
+    <h3>Beginner</h3>
+    <YouTubeVideo src="https://www.youtube.com/embed/b7kmAdDvGP0?si=Nf-rzDlJ65cJnBB-"></YouTubeVideo>
+    <h3>Intermediate</h3>
+    <YouTubeVideo src="https://www.youtube.com/embed/diV_OF2Knik?si=_BGtU1Xd2EFfGLGt"></YouTubeVideo>
 {:else if star === 2}
-    <YouTubeVideo src=""></YouTubeVideo>
+    <YouTubeVideo src="https://www.youtube.com/embed/NPLQei5PjwY?si=6Fn5pv9Y3aDk-Qaz"></YouTubeVideo>
 {:else if star === 3}
-    <YouTubeVideo src=""></YouTubeVideo>
+    <YouTubeVideo src="https://www.youtube.com/embed/L4esWzdZEjA?si=8LMrqWV1iYwiXWNp"></YouTubeVideo>
 {:else if star === 4}
-    <YouTubeVideo src=""></YouTubeVideo>
+    <YouTubeVideo src="https://www.youtube.com/embed/l7iRV7yn_6s?si=rn3vsOcaCMyTLdgI"></YouTubeVideo>
 {:else if star === 5}
     <h3>Beginner</h3>
 {:else if star === 6}
     <h3>Intermediate</h3>
-    <YouTubeVideo src=""></YouTubeVideo>
+    <YouTubeVideo src="https://www.youtube.com/embed/9cPwr3QYXbw?si=p2LLZbyINQTmA2t4"></YouTubeVideo>
 {:else if star === 7}
     <h3>Beginner</h3>
 {/if}
