@@ -17,8 +17,8 @@
     <li>
         <span>McDonalds World War</span>
         <ul>
-            <li><a href="Levels/MWW">Get on the Kong</a></li>
-            <li><a href="Levels/MWW/">Katze's Old House</a></li>
+            <li><a href="Levels/MWW/">Get on the Kong</a></li>
+            <li><a href="Levels/MWW/2">Katze's Old House</a></li>
             <li><a href="Levels/MWW/3">Sand Pit+60 coins</a></li>
             <li><a href="Levels/MWW/4">Usernames's Redesigned Parking Lot</a></li>
             <li><a href="Levels/MWW/6">Burger in the Oven LMAO</a></li>
